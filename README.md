@@ -1,6 +1,6 @@
 ### Hi there 👋
 Soy Ezequiel, un gusto en saludarte!
-!(https://static.vecteezy.com/system/resources/previews/004/664/402/original/tech-support-word-concepts-banner-customer-service-technical-support-free-chatbot-problem-fixing-isolated-lettering-typography-idea-with-linear-icons-outline-illustration-vector.jpg)
+![](https://static.vecteezy.com/system/resources/previews/004/664/402/original/tech-support-word-concepts-banner-customer-service-technical-support-free-chatbot-problem-fixing-isolated-lettering-typography-idea-with-linear-icons-outline-illustration-vector.jpg)
 
 
 <!--
