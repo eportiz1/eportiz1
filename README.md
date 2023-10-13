@@ -1,5 +1,8 @@
 ### Hi there 👋
 Soy Ezequiel, un gusto en saludarte!
+![Texto alternativo](https://cdn.vectorstock.com/i/1000x1000/57/11/support-banner-design-flat-style-vector-9075711.webp)
+
+
 <!--
 **eportiz1/eportiz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
