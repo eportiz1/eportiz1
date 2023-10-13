@@ -1,6 +1,6 @@
 ### Hi there 👋
 Soy Ezequiel, un gusto en saludarte!
-<a href="https://www.vecteezy.com/vector-art/4664402-tech-support-word-concepts-banner-customer-service-technical-support-free-chatbot-problem-fixing-isolated-lettering-typography-idea-with-linear-icons-vector-outline-illustration">Tech support word concepts banner. Customer service. Technical support, free chatbot, problem fixing. Isolated lettering typography idea with linear icons. Vector outline illustration Vectors by Vecteezy</a>
+!(https://static.vecteezy.com/system/resources/previews/004/664/402/original/tech-support-word-concepts-banner-customer-service-technical-support-free-chatbot-problem-fixing-isolated-lettering-typography-idea-with-linear-icons-outline-illustration-vector.jpg)
 
 
 <!--
